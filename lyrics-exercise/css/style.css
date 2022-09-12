@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 125px;
+    margin-right: 125px;
+    margin-left: 125px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    border: 5px solid rgb(238, 5, 5);
+}
+
+h1 {
+    color:red;
+    font-size: 40px;
+}
+h2 {
+    color:red
+}
+
+
